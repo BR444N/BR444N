@@ -8,7 +8,7 @@
 <p>I am a IT Engineer, I'm a Competitive Programmer, I´m a UX Designer, I´m Data Analyst</p>
 
 <ul>
-  <li>👋 Hi, I’m Brandon Martínez</li>
+  <li>👋 Hi, I’m Brandon Martínez.</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
   <li>🌱 I’m currently learning Web Development, Android Development, Python, Astro, Flutter.</li>
   <li>💼 I'm a IT Engineer and Programmer.</li>
