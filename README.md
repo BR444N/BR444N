@@ -1,46 +1,15 @@
-<h1 align="center">Hi 👋, I'm Brandon Martínez</h1>
-<h3 align="center">IT Engineer Student🌟.</h3>
-
-<br>
-
-
-[I believe in center aligned 🤲]: #
-
-<div align="center">
-  
-[this is for the picture]: #	
-<div id="header">
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-  
-[badges i got it from shields.io ... anyone can copy and paste the link and change the parameters to test out, atleast thats how i did it]: #  
-<div id="badges">
-<a href="www.linkedin.com/in/jose-brandon-martinez-rios-IT7">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-</a>
-<a href="mailto:brios724@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
-</a>
-<a href="https://leetcode.com/br444n/">
-  <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
-</a>
-</div>
-
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-- :school: I am a currently `Student` as IT Engineer at [Instituto Tecnológico de Puebla](https://www.puebla.tecnm.mx/).
-- :technologist: I love using Software as a solution for every `Problem`.
-<!---- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`. -->
-- :student: I’m currently learning `Data Analyst`, `UX Designer` and `Programmer`.
-- :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](www.linkedin.com/in/jose-brandon-martinez-rios-11791725b).
-- :boom: You can visit [MY WEBSITE]().
-<br>
+<p align="center">
+  <h1 align="center">Welcome to <a href="https://github.com/BR444N">Brandon Martínez</a>'s Profile 👋</h1>
+</p>
+<p align="center">
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+</p>
+<p>I am a IT Engineer, I'm a Competitive Programmer, I´m a UX Designer, I´m Data Analyst</p>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
+<ul>
+  <li>👋 Hi, I’m @MrBlueBird2</li>
+  <li>❤️ I love Creating websites and Programming in Python.</li>
+  <li>🌱 I’m currently learning Web Development, Android Development, C++, Java, Python, and JS.</li>
+  <li>💼 I'm a Front end developer at Crediometer.</li>
+  <li>🧐 Portfolio Website, https://mrbluebird2.github.io</li>
+</ul>
