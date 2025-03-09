@@ -10,7 +10,7 @@
 <ul>
   <li>👋 Hi, I’m Brandon Martínez.</li>
   <li>❤️ I love Creating websites and Programming in Python.</li>
-  <li>🌱 I’m currently learning Web Development, Android Development, Python, Astro, Flutter.</li>
+  <li>🌱 I’m currently learning Web Development, Android Development, Python, Astro and Jetpack Compose.</li>
   <li>💼 I'm a IT Engineer and Programmer.</li>
   <li>🧐 Portfolio Website, https://BR444N.github.io</li>
 </ul>
