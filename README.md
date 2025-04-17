@@ -55,7 +55,6 @@
 
 
 
-![snake gif](https://github.com/BR444N/BR444N/blob/output/github-contribution-grid-snake.svg)
 
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
 
