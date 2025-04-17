@@ -8,8 +8,8 @@
 
 
 <p align="center">
-  <strong>I'm an **Android Junior Developer** focused on building **native apps** using **Kotlin** and **Jetpack Compose**. </strong><br/>
-  Apasionado por crear apps modernas, fluidas y bien diseñadas para Android 📱
+  <strong>I'm an Android Junior Developer focused on building native apps using Kotlin and Jetpack Compose. </strong><br/>
+  I’m passionate about building modern, smooth, and well-designed mobile apps. 📱
 </p>
 
 ---
