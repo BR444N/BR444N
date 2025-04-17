@@ -2,7 +2,7 @@
 <h1 align="center">¡Hi! I´m Brandon. 👋</h1>
 
 <!-- Banner principal -->
-<img src="https://github.com/nombreUsuario/nombreUsuario/blob/main/banner.png" alt="Banner" style="width:100%;" />
+<img width="1834" alt="Image" src="https://github.com/user-attachments/assets/a7ffbc74-86eb-42af-8fea-a1b9a89cabbb" />
 
 
 
