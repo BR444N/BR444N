@@ -1,5 +1,5 @@
 <!-- Saludo -->
-<h1 align="center">¡Hi! I´m Brandon. 👋</h1>
+<h1 align="center">¡Hey, Brandon here! 👋</h1>
 
 <!-- Banner -->
 <p align="center">
