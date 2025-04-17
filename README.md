@@ -53,9 +53,7 @@
 > *"Thought shapes action, action defines behavior, repeated behavior forms habits, habits shape character, and character determines destiny."*  
 > — **Aristotle (384–322 B.C.)** 🏛️
 
-## 🐍 Contribution Snake
 
-![snake gif](https://github.com/BR444N/BR444N/blob/output/github-contribution-grid-snake.svg)
 
 
 
