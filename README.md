@@ -1,14 +1,14 @@
 <!-- Saludo -->
 <h1 align="center">¡Hi! I´m Brandon. 👋</h1>
 
-<!-- Banner principal -->
+<!-- Banner -->
 <p align="center">
 <img src="https://github.com/user-attachments/assets/a7ffbc74-86eb-42af-8fea-a1b9a89cabbb" width="800" alt="Banner" />
 </p>
 
 
 <p align="center">
-  <strong>Desarrollador Android Nativo | Kotlin & Jetpack Compose</strong><br/>
+  <strong>I'm an **Android Junior Developer** focused on building **native apps** using **Kotlin** and **Jetpack Compose**. </strong><br/>
   Apasionado por crear apps modernas, fluidas y bien diseñadas para Android 📱
 </p>
 
