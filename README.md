@@ -1,8 +1,10 @@
+<!-- Saludo -->
+<h1 align="center">¡Hi! I´m Brandon. 👋</h1>
+
 <!-- Banner principal -->
 <img src="https://github.com/nombreUsuario/nombreUsuario/blob/main/banner.png" alt="Banner" style="width:100%;" />
 
-<!-- Saludo -->
-<h1 align="center">¡Hola! Soy [Tu Nombre] 👋</h1>
+
 
 <p align="center">
   <strong>Desarrollador Android Nativo | Kotlin & Jetpack Compose</strong><br/>
