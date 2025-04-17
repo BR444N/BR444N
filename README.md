@@ -2,8 +2,9 @@
 <h1 align="center">¡Hi! I´m Brandon. 👋</h1>
 
 <!-- Banner principal -->
-<img width="1834" alt="Banner" style="width:100%;" src="https://github.com/user-attachments/assets/a7ffbc74-86eb-42af-8fea-a1b9a89cabbb" />
-
+<p align="center">
+<img src="https://github.com/user-attachments/assets/a7ffbc74-86eb-42af-8fea-a1b9a89cabbb" width="800" alt="Banner" />
+</p>
 
 
 <p align="center">
