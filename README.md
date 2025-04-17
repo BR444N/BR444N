@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Room-006400?style=for-the-badge"/>
 </p>
 
-#### Tools
+#### ⚙️ Tools
 <span>
   <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
