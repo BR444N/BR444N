@@ -14,37 +14,44 @@
 
 ---
 
-### 🧠 Sobre mí
-
-- 💼 Actualmente aprendiendo y trabajando con **Kotlin** + **Jetpack Compose**
-- 🎓 Estudiante de TICs, enfocado en desarrollo móvil
-- 🌱 Mejorando día a día en Clean Architecture, MVVM, Room y otros frameworks
-- ✨ Buscando colaborar en proyectos Android de código abierto
-- 💬 Pregúntame sobre desarrollo móvil, arquitectura MVVM o Compose UI
+### 🧠 About Me
+- 🎓 I’m currently studying **Information and Communication Technologies Engineering**.
+- 📱 Focused on **Native Android Development** with **Kotlin** and **Jetpack Compose**.
+- 🌱 Improving skills in **Clean Architecture**, **MVVM**, **Room**, and more.
+- 💼 Always building projects and learning new tools to grow as a developer.
+- 💬 Ask me about **mobile development**, MVVM, Compose UI, or anything Android!.
 
 ---
 
-### 🚀 Tecnologías
+### 🚀 Technologies
 
-#### Lenguajes y frameworks
+#### Languages and Frameworks
 <p>
   <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Room-006400?style=for-the-badge"/>
 </p>
 
-#### Herramientas
-<p>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+#### Tools
+<span>
+  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+</span>
 
 ---
 
-### 📱 Mis proyectos Android
+### 📱 My Android Projects
 
+### 📫 Contact me
 
+- [LinkedIn]()
+- [Correo]()
+
+### 🔖 Personal Philosophy
+
+> *"Thought shapes action, action defines behavior, repeated behavior forms habits, habits shape character, and character determines destiny."*  
+> — **Aristotle (384–322 B.C.)** 🏛️
 
 
 
