@@ -52,15 +52,7 @@
 
 ### 🌟 Featured Projects
 
-#### [📱 Project Name](https://github.com/your-username/project)
-> Brief description of what the project does and its main features
-
-**Technologies:** Kotlin, Jetpack Compose, Room, MVVM, Coroutines
-
-#### [🎯 Another Project](https://github.com/your-username/project2)
-> Short and engaging description
-
-**Technologies:** Kotlin, Compose, Firebase, Retrofit
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BR444N&repo=dragonball-api-mobile-app&theme=radical)](https://github.com/BR444N/dragonball-api-mobile-app)
 
 ---
 
