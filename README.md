@@ -28,7 +28,7 @@
 #### Languages and Frameworks
 <p>
   <img src="https://img.shields.io/badge/kotlin-%23FFE953.svg?style=for-the-badge&logo=kotlin&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-%23FFE953.svg?style=for-the-badge&logo=jetpack-compose&logoColor=black"/>
   <img src="https://img.shields.io/badge/Room-006400?style=for-the-badge"/>
 </p>
 
