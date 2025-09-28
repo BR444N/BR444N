@@ -23,30 +23,60 @@
 
 ---
 
-### 🚀 Technologies
+### 🚀 Tech Stack
 
-#### Languages and Frameworks
+#### 📱 Android Development
 <p>
-  <img src="https://img.shields.io/badge/kotlin-%23FFE953.svg?style=for-the-badge&logo=kotlin&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kotlin-%23FFE953.svg?style=for-the-badge&logo=kotlin&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-%23FFE953.svg?style=for-the-badge&logo=jetpack-compose&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Room-006400?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-%23FFE953.svg?style=for-the-badge&logo=android-studio&logoColor=black"/>
 </p>
 
-#### ⚙️ Tools
-<span>
-  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-</span>
+#### 🏗️ Architecture & Libraries
+<p>
+  <img src="https://img.shields.io/badge/MVVM-%23FFE953.svg?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-%23FFE953.svg?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Room-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Retrofit-%23FFE953.svg?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Coroutines-%23FFE953.svg?style=for-the-badge&logoColor=black"/>
+</p>
+
+#### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Firebase-%23FFE953.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-%23FFE953.svg?style=for-the-badge&logo=git&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-%23FFE953.svg?style=for-the-badge&logo=figma&logoColor=black"/>
+</p>
 
 ---
 
-### 📱 My Android Projects
+### 🌟 Featured Projects
 
-### 📫 Contact me
+#### [📱 Project Name](https://github.com/your-username/project)
+> Brief description of what the project does and its main features
 
-- [LinkedIn]()
-- [Correo]()
+**Technologies:** Kotlin, Jetpack Compose, Room, MVVM, Coroutines
+
+#### [🎯 Another Project](https://github.com/your-username/project2)
+> Short and engaging description
+
+**Technologies:** Kotlin, Compose, Firebase, Retrofit
+
+---
+
+### 📫 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-%23FFE953.svg?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23FFE953.svg?style=for-the-badge&logo=gmail&logoColor=black"/>
+  </a>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-%23FFE953.svg?style=for-the-badge&logo=github&logoColor=black"/>
+  </a>
+</p>
 
 ### 🔖 Personal Philosophy
 
