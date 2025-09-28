@@ -41,6 +41,12 @@
   <img src="https://img.shields.io/badge/Coroutines-%23FFE953.svg?style=for-the-badge&logoColor=black"/>
 </p>
 
+#### 💻 Operating Systems
+<p>
+  <img src="https://img.shields.io/badge/Windows-%23FFE953.svg?style=for-the-badge&logo=windows&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Linux-%23FFE953.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
+
 #### 🔧 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Firebase-%23FFE953.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -52,20 +58,20 @@
 
 ### 🌟 Featured Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BR444N&repo=dragonball-api-mobile-app&theme=onedark)](https://github.com/BR444N/dragonball-api-mobile-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BR444N&repo=dragonball-api-mobile-app&title_color=FFE953&icon_color=FFE953&text_color=FFFFFF&bg_color=000000&border_color=FFE953)](https://github.com/BR444N/dragonball-api-mobile-app)
 
 ---
 
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jose-brandon-martinez-rios-it7)">
     <img src="https://img.shields.io/badge/LinkedIn-%23FFE953.svg?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:brios724@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23FFE953.svg?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/BR444N">
     <img src="https://img.shields.io/badge/GitHub-%23FFE953.svg?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
