@@ -52,7 +52,7 @@
 
 ### 🌟 Featured Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BR444N&repo=dragonball-api-mobile-app&theme=radical)](https://github.com/BR444N/dragonball-api-mobile-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BR444N&repo=dragonball-api-mobile-app&theme=dark)](https://github.com/BR444N/dragonball-api-mobile-app)
 
 ---
 
