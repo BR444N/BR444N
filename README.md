@@ -65,9 +65,9 @@
 ### 📫 Let's Connect!
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/jose-brandon-martinez-rios-it7)">
+  <a href="https://www.linkedin.com/in/jose-brandon-martinez-rios-it7">
     <img src="https://img.shields.io/badge/LinkedIn-%23FFE953.svg?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
+</a>
   <a href="mailto:brios724@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23FFE953.svg?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
