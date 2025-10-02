@@ -20,7 +20,10 @@
 - 🌱 Improving skills in **Clean Architecture**, **MVVM**, **Room**, and more.
 - 💼 Always building projects and learning new tools to grow as a developer.
 - 💬 Ask me about **mobile development**, MVVM, Compose UI, or anything Android!.
-
+-
+-
+-
+-
 ---
 
 ### 🚀 Tech Stack
