@@ -14,7 +14,7 @@
 
 ---
 
-### 🧠 About Mee
+### 🧠 About Me
 - 🎓 I’m currently studying **Information and Communication Technologies Engineering**.
 - 📱 Focused on **Native Android Development** with **Kotlin** and **Jetpack Compose**.
 - 🌱 Improving skills in **Clean Architecture**, **MVVM**, **Room**, and more.
