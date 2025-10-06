@@ -62,7 +62,7 @@
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Let's Connect!!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-brandon-martinez-rios-it7">
