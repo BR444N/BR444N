@@ -13,45 +13,66 @@
 </p>
 
 ---
-<h2 align="center">🧠 About Me</h2>
 
-- 🎓 I’m currently studying **Information and Communication Technologies Engineering**.
-- 📱 Focused on **Native Android Development** with **Kotlin** and **Jetpack Compose**.
-- 🌱 Improving skills in **Clean Architecture**, **MVVM**, **Room**, and more.
-- 💼 Always building projects and learning new tools to grow as a developer.
-- 💬 Ask me about **mobile development**, MVVM, Compose UI, or anything Android!.
+<div align="center">
+  <h3>🧠 ABOUT ME</h3>
+</div>
 
+- 🎓 **Information and Communication Technologies Engineering** student
+- 📱 **Android Developer** specializing in **Kotlin** & **Jetpack Compose**
+- 🏗️ Building scalable apps with **Clean Architecture**, **MVVM**, and modern Android practices
+- 💼 Constantly developing projects to enhance my skills and portfolio
+- 🌱 Currently mastering **Room**, **Retrofit**, and advanced Android concepts
+- 💬 Feel free to ask me about **Android development**, **Compose UI**, or **app architecture**!
 ---
 
-<h2 align="center">🚀 Tech Stack</h2>
+<div align="center">
+  <h3>🚀 MY TECH STACK</h3>
+</div>
 
-#### 📱 Android Development
-<p>
+<div align="center">
+  <h3>📱 Android Development</h3>
+</div>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Kotlin-%23FFE953.svg?style=for-the-badge&logo=kotlin&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-%23FFE953.svg?style=for-the-badge&logo=jetpack-compose&logoColor=black"/>
   <img src="https://img.shields.io/badge/Android%20Studio-%23FFE953.svg?style=for-the-badge&logo=android-studio&logoColor=black"/>
 </p>
 
-#### 🏗️ Architecture & Libraries
-<p>
+<div align="center">
+  <h3>🏗️ Architecture & Patterns</h3>
+</div>
+<p align="center">
   <img src="https://img.shields.io/badge/MVVM-%23FFE953.svg?style=for-the-badge&logoColor=black"/>
   <img src="https://img.shields.io/badge/Clean%20Architecture-%23FFE953.svg?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Room-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Retrofit-%23FFE953.svg?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Coroutines-%23FFE953.svg?style=for-the-badge&logoColor=black"/>
 </p>
 
-#### 💻 Operating Systems
-<p>
+<div align="center">
+  <h3>📚 Android Libraries</h3>
+</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Room-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Retrofit-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Coroutines-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Navigation-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Lifecycle-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DataStore-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
+</p>
+
+<div align="center">
+  <h3>💻 Operating Systems</h3>
+</div>
+<p align="center">
   <img src="https://img.shields.io/badge/Windows-%23FFE953.svg?style=for-the-badge&logo=windows&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linux-%23FFE953.svg?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-#### 🔧 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Firebase-%23FFE953.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-%23FFE953.svg?style=for-the-badge&logo=git&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-%23FFE953.svg?style=for-the-badge&logo=figma&logoColor=black"/>
+<div align="center">
+  <h3>🌐 Other Skills</h3>
+</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-%23FFE953.svg?style=for-the-badge&logo=gnu-bash&logoColor=black"/>
 </p>
 
 ---
