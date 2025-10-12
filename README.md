@@ -13,7 +13,7 @@
 </p>
 
 ---
-<h3 align="center">🧠 About Me</h3>
+<h2 align="center">🧠 About Me</h2>
 
 - 🎓 I’m currently studying **Information and Communication Technologies Engineering**.
 - 📱 Focused on **Native Android Development** with **Kotlin** and **Jetpack Compose**.
@@ -23,7 +23,7 @@
 
 ---
 
-### 🚀 Tech Stack
+<h2 align="center">🚀 Tech Stack</h2>
 
 #### 📱 Android Development
 <p>
