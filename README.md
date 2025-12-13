@@ -88,7 +88,7 @@
 
 ---
 <div align="center">
-  <h3>📫 Let's Connect!!</h3>
+  <h3>📫 LET'S CONNECT!!</h3>
 </div>
 
 
