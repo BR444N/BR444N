@@ -80,7 +80,7 @@
 
 ---
 <div align="center">
-  <h3>🌟 Featured Projects</h3>
+  <h1>🌟 FEATURED PROJECTS</h1>
 </div>
 
 
