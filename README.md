@@ -20,6 +20,7 @@
 
 - 🎓 **Information and Communication Technologies Engineering** student
 - 📱 **Android Developer** specializing in **Kotlin** & **Jetpack Compose**
+- ⚡ Implementing **Android Shortcuts** and **Widgets** in Compose apps
 - 🏗️ Building scalable apps with **Clean Architecture**, **MVVM**, and modern Android practices
 - 💼 Constantly developing projects to enhance my skills and portfolio
 - 🌱 Currently mastering **Room**, **Retrofit**, and advanced Android concepts
