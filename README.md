@@ -59,6 +59,7 @@
   <img src="https://img.shields.io/badge/Navigation-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
   <img src="https://img.shields.io/badge/Lifecycle-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
   <img src="https://img.shields.io/badge/DataStore-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Glance-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
 </p>
 
 <div align="center">
