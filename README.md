@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Kotlin-%23FFE953.svg?style=for-the-badge&logo=kotlin&logoColor=black"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-%23FFE953.svg?style=for-the-badge&logo=jetpack-compose&logoColor=black"/>
   <img src="https://img.shields.io/badge/Android%20Studio-%23FFE953.svg?style=for-the-badge&logo=android-studio&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SonarQube-%23FFE953.svg?style=for-the-badge&logo=sonarqube&logoColor=black"/>
 </p>
 
 <div align="center">
