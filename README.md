@@ -106,7 +106,8 @@
 
 ### 🚀 Future Goals & Learning Path
 
-- ✅ **Testing Mastery:** Deepening knowledge in Unit Tests, UI Tests, and Test-Driven Development
+- ✅ **Testing** Deepening knowledge in Unit Tests, UI Tests, and Test-Driven Development
+  - ⌚ **Wear OS Development:** Expanding skills to build apps for smartwatches and wearables
 
 ### 🔖 Personal Philosophy
 
