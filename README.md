@@ -107,7 +107,7 @@
 ### 🚀 Future Goals & Learning Path
 
 - ✅ **Testing** Deepening knowledge in Unit Tests, UI Tests, and Test-Driven Development
-  - ⌚ **Wear OS Development:** Expanding skills to build apps for smartwatches and wearables
+- ⌚ **Wear OS Development:** Expanding skills to build apps for smartwatches and wearables
 
 ### 🔖 Personal Philosophy
 
