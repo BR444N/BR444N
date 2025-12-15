@@ -104,6 +104,9 @@
   </a>
 </p>
 
+### 🚀 Future Goals & Learning Path
+
+
 ### 🔖 Personal Philosophy
 
 > *"Thought shapes action, action defines behavior, repeated behavior forms habits, habits shape character, and character determines destiny."*  
