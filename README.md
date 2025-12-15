@@ -106,6 +106,7 @@
 
 ### 🚀 Future Goals & Learning Path
 
+- ✅ **Testing Mastery:** Deepening knowledge in Unit Tests, UI Tests, and Test-Driven Development
 
 ### 🔖 Personal Philosophy
 
