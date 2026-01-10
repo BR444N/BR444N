@@ -84,7 +84,7 @@
 </div>
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BR444N&repo=dragonball-api-mobile-app&title_color=FFE953&icon_color=FFE953&text_color=FFFFFF&bg_color=000000&border_color=FFE953)](https://github.com/BR444N/dragonball-api-mobile-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=BR444N&repo=dragonball-api-mobile-app&title_color=FFE953&icon_color=FFE953&text_color=FFFFFF&bg_color=000000&border_color=FFE953)](https://github.com/BR444N/dragonball-api-mobile-app)]
 
 ---
 <div align="center">
