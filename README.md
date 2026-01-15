@@ -18,7 +18,7 @@
   <h3>🧠 ABOUT ME</h3>
 </div>
 
-- 🎓 **Information and Communication Technologies Engineering** student
+- 🎓 **Information and Communication Technologies Engineering** Student
 - 📱 **Android Developer** specializing in **Kotlin** & **Jetpack Compose**
 - ⚡ Implementing **Android Shortcuts** and **Widgets** in Compose apps
 - 🏗️ Building scalable apps with **Clean Architecture**, **MVVM**, and modern Android practices
