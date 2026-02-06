@@ -77,6 +77,7 @@
 </div>
 <p align="center">
   <img src="https://img.shields.io/badge/Bash-%23FFE953.svg?style=for-the-badge&logo=gnu-bash&logoColor=black"/>
+  <img src="https://img.shields.io/badge/figma-%23FFE953.svg?style=for-the-badge&logo=figma&logoColor=black"/>
 </p>
 
 ---
