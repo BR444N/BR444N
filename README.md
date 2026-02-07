@@ -110,6 +110,7 @@
 
 - ✅ **Testing** Deepening knowledge in Unit Tests, UI Tests, and Test-Driven Development
 - ⌚ **Wear OS Development:** Expanding skills to build apps for smartwatches and wearables
+- 📱Learning Kotlin Multiplatform **(KMP)** for cross-platform Android and iOS development
 
 ### 🔖 Personal Philosophy
 
