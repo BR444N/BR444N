@@ -95,7 +95,7 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/%20jose-brandon-mtz-rios">
+  <a href="www.linkedin.com/in/jose-brandon-mtz-rios">
     <img src="https://img.shields.io/badge/LinkedIn-%23FFE953.svg?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
   <a href="mailto:josebrandonmartinezrios@duck.com">
