@@ -98,7 +98,7 @@
   <a href="https://www.linkedin.com/in/jose-brandon-martinez-rios-it7">
     <img src="https://img.shields.io/badge/LinkedIn-%23FFE953.svg?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
-  <a href="mailto:brios724@gmail.com">
+  <a href="mailto:josebrandonmartinezrios@duck.com">
     <img src="https://img.shields.io/badge/Gmail-%23FFE953.svg?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
   <a href="https://github.com/BR444N">
