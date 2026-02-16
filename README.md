@@ -41,7 +41,9 @@
 - 🌱 Currently mastering **Room**, **Retrofit**, and advanced Android concepts
 - 💬 Feel free to ask me about **Android development**, **Compose UI**, or **app architecture**!
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFE953&height=2&section=footer" width="800" />
+</div>
 
 <div align="center">
   <h3>🚀 MY TECH STACK</h3>
@@ -75,7 +77,9 @@
   </p>
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFE953&height=2&section=footer" width="800" />
+</div>
 
 <div align="center">
   <h3>🌟 FEATURED PROJECTS</h3>
@@ -95,7 +99,9 @@
   </table>
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFE953&height=2&section=footer" width="800" />
+</div>
 
 <div align="center">
   <h3>🚀 FUTURE GOALS</h3>
@@ -105,7 +111,9 @@
 - ⌚ **Wear OS:** Expanding skills for wearables
 - 📱 **KMP:** Learning Kotlin Multiplatform for cross-platform dev
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFE953&height=2&section=footer" width="800" />
+</div>
 
 <div align="center">
   <h3>📫 LET'S CONNECT!!</h3>
