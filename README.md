@@ -95,7 +95,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/BR444N/Construction-Material-Tracker">
-          <img src="URL_DE_TU_ISSUE_MATERIAL_TRACKER" width="400" alt="Material Tracker Card" />
+          <img src="https://github.com/user-attachments/assets/e308f030-e764-469c-9d9a-ca45acd5aeaf" width="400" alt="Material Tracker Card" />
         </a>
       </td>
     </tr>
