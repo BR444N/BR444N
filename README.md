@@ -88,11 +88,6 @@
   [![ReadMe Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BR444N&repo=dragonball-api-mobile-app&title_color=FFE953&icon_color=FFE953&text_color=FFFFFF&bg_color=000000&border_color=FFE953)](https://github.com/BR444N/dragonball-api-mobile-app)
   [![ReadMe Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BR444N&repo=Construction-Material-Tracker&title_color=FFE953&icon_color=FFE953&text_color=FFFFFF&bg_color=000000&border_color=FFE953)](https://github.com/BR444N/Construction-Material-Tracker)
 
-
-  <div align="center">
-      <img src="https://github.com/BR444N/my-snake/blob/main/github-metrics.svg?v=2" alt="Mis Proyectos Destacados" width="800px">
-  </div>
-
 ---
 <div align="center">
   <h3>📫 LET'S CONNECT!!</h3>
