@@ -18,15 +18,15 @@
 </div>
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x2/FFE953/FFE953" width="800" height="2" alt="Separator">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFE953&height=2&section=header" width="800" alt="Separator" />
   <br/><br/>
   <h3>🔖 PERSONAL PHILOSOPHY</h3>
-  <blockquote>
-    "Thought shapes action, action defines behavior, repeated behavior forms habits, habits shape character, and character determines destiny." <br/>
+  <p align="center">
+    <i>"Thought shapes action, action defines behavior, repeated behavior forms habits, habits shape character, and character determines destiny."</i><br>
     — <b>Aristotle 🏛️</b>
-  </blockquote>
+  </p>
   <br/>
-  <img src="https://via.placeholder.com/800x2/FFE953/FFE953" width="800" height="2" alt="Separator">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFE953&height=2&section=footer" width="800" alt="Separator" />
 </div>
 
 <div align="center">
