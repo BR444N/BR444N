@@ -17,21 +17,17 @@
   </picture>
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/line.png" width="800px">
-</p>
-
 <div align="center">
+  <img src="https://via.placeholder.com/800x2/FFE953/FFE953" width="800" height="2" alt="Separator">
+  <br/><br/>
   <h3>🔖 PERSONAL PHILOSOPHY</h3>
   <blockquote>
     "Thought shapes action, action defines behavior, repeated behavior forms habits, habits shape character, and character determines destiny." <br/>
     — <b>Aristotle 🏛️</b>
   </blockquote>
+  <br/>
+  <img src="https://via.placeholder.com/800x2/FFE953/FFE953" width="800" height="2" alt="Separator">
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/line.png" width="800px">
-</p>
 
 <div align="center">
   <h3>🧠 ABOUT ME</h3>
