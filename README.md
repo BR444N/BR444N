@@ -115,7 +115,11 @@
 ### 🔖 Personal Philosophy
 
 > **"Thought shapes action, action defines behavior, repeated behavior forms habits, habits shape character, and character determines destiny."**  
-> — **Aristotle 🏛️(384–322 B.C.)** 
+> — **Aristotle 🏛️(384–322 B.C.)**
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BR444N&theme=dark&fire=FFE953&ring=FFE953&sideNums=FFE953&currStreakLabel=FFE953&stroke=FFE953&currStreakNum=FFE953&sideLabels=FFE953&dates=FFE953" alt="GitHub Streak Stats" />
+</div>
 
 
 <div align="center">
