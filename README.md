@@ -90,21 +90,29 @@
     <tr>
       <td align="center">
         <a href="https://github.com/BR444N/dragonball-api-mobile-app">
-          <img src="https://github.com/user-attachments/assets/c8e7832d-1e49-4967-afa4-5f621c07ebb1" width="400" alt="Dragon Ball App Card" />
+          <img src="https://github.com/user-attachments/assets/c8e7832d-1e49-4967-afa4-5f621c07ebb1" width="390" alt="Dragon Ball App Card" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/BR444N/Construction-Material-Tracker">
-          <img src="https://github.com/user-attachments/assets/e308f030-e764-469c-9d9a-ca45acd5aeaf" width="400" alt="Material Tracker Card" />
+          <img src="https://github.com/user-attachments/assets/e308f030-e764-469c-9d9a-ca45acd5aeaf" width="390" alt="Material Tracker Card" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/BR444N/TrainLoop">
+          <img src="https://github.com/user-attachments/assets/7b5d2cba-a205-481a-baaa-8df48ce927c5" width="390" alt="TrainLoop Card" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="URL_DEL_REPOSITORIO_4">
+          <img src="https://github.com/user-attachments/assets/a388b130-541b-4fb0-9496-4d0816883557" width="390" alt="TrainLoop WearOS Card" />
         </a>
       </td>
     </tr>
   </table>
   <br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFE953&height=2&section=footer" width="800" />
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFE953&height=2&section=footer" width="800" />
 </div>
 
