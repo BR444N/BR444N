@@ -107,7 +107,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/BR444N/TrainLoop-WearOS">
-          <img src="https://github.com/user-attachments/assets/a388b130-541b-4fb0-9496-4d0816883557" width="390" alt="TrainLoop WearOS Card" />
+          <img src="https://github.com/user-attachments/assets/a2fab65f-db7d-4fb0-a506-ac17297ed838" width="390" alt="TrainLoop WearOS Card" />
         </a>
       </td>
     </tr>
