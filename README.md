@@ -95,7 +95,7 @@
       </td>
       <td align="center">
         <a href="https://github.com/BR444N/Construction-Material-Tracker">
-          <img src="https://github.com/user-attachments/assets/e308f030-e764-469c-9d9a-ca45acd5aeaf" width="390" alt="Material Tracker Card" />
+          <img src="https://github.com/user-attachments/assets/e14b80bf-18da-4819-837f-ce97e8d51a2b" width="390" alt="Material Tracker Card" />
         </a>
       </td>
     </tr>
