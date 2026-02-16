@@ -90,7 +90,7 @@
 
 
   <div align="center">
-      <img src="https://github.com/BR444N/my-snake/blob/main/github-metrics.svg" alt="Mis Proyectos Destacados" width="800px">
+      <img src="https://github.com/BR444N/my-snake/blob/main/github-metrics.svg?v=2" alt="Mis Proyectos Destacados" width="800px">
   </div>
 
 ---
