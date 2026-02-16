@@ -82,21 +82,26 @@
 </div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFE953&height=2&section=header" width="800" />
+  <br/>
   <h3>🌟 FEATURED PROJECTS</h3>
+  <br/>
   <table border="0">
     <tr>
       <td align="center">
         <a href="https://github.com/BR444N/dragonball-api-mobile-app">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BR444N&repo=dragonball-api-mobile-app&title_color=FFE953&icon_color=FFE953&text_color=FFFFFF&bg_color=000000&border_color=FFE953" alt="Dragon Ball App" />
+          <img src="https://github.com/user-attachments/assets/c8e7832d-1e49-4967-afa4-5f621c07ebb1" width="400" alt="Dragon Ball App Card" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/BR444N/Construction-Material-Tracker">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BR444N&repo=Construction-Material-Tracker&title_color=FFE953&icon_color=FFE953&text_color=FFFFFF&bg_color=000000&border_color=FFE953" alt="Material Tracker" />
+          <img src="URL_DE_TU_ISSUE_MATERIAL_TRACKER" width="400" alt="Material Tracker Card" />
         </a>
       </td>
     </tr>
   </table>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFE953&height=2&section=footer" width="800" />
 </div>
 
 <div align="center">
