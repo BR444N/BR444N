@@ -9,6 +9,12 @@
   I’m passionate about building modern, smooth, and well-designed mobile apps. 📱
 </p>
 
+<p align="center">
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-%23FFE953.svg?style=for-the-badge&logo=rocket&logoColor=black" alt="My Portfolio"/>
+  </a>
+</p>
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/BR444N/snake-test/raw/refs/heads/output/github-contribution-grid-snake-dark.svg">
