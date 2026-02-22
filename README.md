@@ -26,7 +26,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFE953&height=2&section=header" width="800" alt="Separator" />
   <br/><br/>
-  <h3>🔖 PERSONAL PHILOSOPHY</h3>
+  <h3>🎗️ PERSONAL PHILOSOPHY</h3>
   <p align="center">
     <i>"Thought shapes action, action defines behavior, repeated behavior forms habits, habits shape character, and character determines destiny."</i><br>
     — <b>Aristotle 🏛️</b>
@@ -36,15 +36,15 @@
 </div>
 
 <div align="center">
-  <h3>🧠 ABOUT ME</h3>
+  <h3>👨‍💻 ABOUT ME</h3>
 </div>
 
-- 🎓 **Information and Communication Technologies Engineering** Student at **Technological Institute of Puebla**
+- 👨‍🎓 **Information and Communication Technologies Engineering** Student at **Technological Institute of Puebla**
 - 📱 **Android Developer** specializing in **Kotlin** & **Jetpack Compose**
-- ⚡ Implementing **Android Shortcuts** and **Widgets** in Compose apps
+- 🟡 Implementing **Android Shortcuts** and **Widgets** in Compose apps
 - 🏗️ Building scalable apps with **Clean Architecture**, **MVVM**, and modern practices
 - 💼 Constantly developing projects to enhance my skills and portfolio
-- 🌱 Currently mastering **Room**, **Retrofit**, and advanced Android concepts
+- ✨ Currently mastering **Room**, **Retrofit**, and advanced Android concepts
 - 💬 Feel free to ask me about **Android development**, **Compose UI**, or **app architecture**!
 
 <div align="center">
@@ -52,7 +52,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 MY TECH STACK</h3>
+  <h3>🛠️ MY TECH STACK</h3>
 </div>
 
 <div align="center">
@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/Coroutines-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
   </p>
 
-  <h4>🌐 Tools & OS</h4>
+  <h4>💻 Tools & OS</h4>
   <p>
     <img src="https://img.shields.io/badge/figma-%23FFE953.svg?style=for-the-badge&logo=figma&logoColor=black"/>
     <img src="https://img.shields.io/badge/Bash-%23FFE953.svg?style=for-the-badge&logo=gnu-bash&logoColor=black"/>
@@ -127,10 +127,10 @@
 </div>
 
 <div align="center">
-  <h3>🚀 FUTURE GOALS</h3>
+  <h3>⭐ FUTURE GOALS</h3>
 </div>
 
-- ✅ **Testing:** Deepening knowledge in Unit, UI, and TDD
+- 🧪 **Testing:** Deepening knowledge in Unit, UI, and TDD
 - ⌚ **Wear OS:** Expanding skills for wearables
 - 📱 **KMP:** Learning Kotlin Multiplatform for cross-platform dev
 
@@ -139,7 +139,7 @@
 </div>
 
 <div align="center">
-  <h3>📫 LET'S CONNECT!!</h3>
+  <h3>🤝 LET'S CONNECT!!</h3>
   <p>
     <a href="https://www.linkedin.com/in/jose-brandon-mtz-rios">
       <img src="https://img.shields.io/badge/LinkedIn-%23FFE953.svg?style=for-the-badge&logo=linkedin&logoColor=black"/>
