@@ -1,7 +1,7 @@
 <h1 align="center">¡Hey, Brandon here! 👋</h1>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/4778ecce-f2dd-43c2-a0f4-d49393e85afd" width="800" alt="Banner" />
+<img src="https://github.com/user-attachments/assets/26ceb724-742e-4dd5-90b9-722164cbe273" width="800" alt="Banner" />
 </p>
 
 <p align="center">
