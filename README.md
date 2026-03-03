@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://unicorn-sparkle-unicorn-sparkle.vercel.app/" target="_blank">
+  <a href="https://brandon-martinez-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-%23FFE953.svg?style=for-the-badge&logo=rocket&logoColor=black" alt="My Portfolio"/>
   </a>
 </p>
