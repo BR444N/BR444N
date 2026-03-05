@@ -117,6 +117,18 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">
+        <a href="https://progress-project-six.vercel.app/">
+          <img src="https://github.com/user-attachments/assets/3a88e0ee-3add-4904-961d-1256b9e1d61a" width="390" alt="Proyecto 5 Card" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="[URL_REPOSITORIO_6](https://brandon-martinez-dev.vercel.app/)">
+          <img src="https://github.com/user-attachments/assets/44c6b837-7993-4f5b-b79b-4de5cf43c233" width="390" alt="Proyecto 6 Card" />
+        </a>
+      </td>
+    </tr>
   </table>
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFE953&height=2&section=footer" width="800" />
