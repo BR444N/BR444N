@@ -19,31 +19,29 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN_STATS }}
           user: BR444N
           template: classic
-          
-          # IMPORTANTE: Desactivamos la base textual para usar PANELES
           base: "" 
           config_timezone: America/Mexico_City
           
-          # Estilo "Cremita" (Amarillo #FFE953)
-          # Usamos un tema oscuro de base y aplicamos tu color de acento
-          config_colors_theme: dark
-          palette: custom
-          color_primary: "#FFE953"
+          # ORDEN DE LOS PANELES
+          config_order: languages, followup
+
+          # CONFIGURACIÓN DE COLORES Y ESTILO
+          # Los metemos aquí para evitar el "Unexpected input"
+          config_options: |
+            {
+              "colors": {
+                "primary": "#FFE953"
+              },
+              "dark_mode": true
+            }
           
-          # ORDEN DE LOS PANELES (Igual que en tu imagen de referencia)
-          config_order: followup, languages
-
-          # PANEL 1: GitHub Statistics (Equivalente a Isocalendar/Followup)
-          plugin_followup: yes
-          plugin_followup_sections: repositories
-          # plugin_isocalendar: yes # Si prefieres el calendario de commits
-
-          # PANEL 2: Most Used Languages (Con diseño de tarjetas)
+          # PANEL 1: Most Used Languages (Diseño de tarjeta)
           plugin_languages: yes
           plugin_languages_ignored: html, css, tex
           plugin_languages_details: bytes-size, percentage
           plugin_languages_sections: most-used
           plugin_languages_limit: 6
           
-          # Esto fuerza el diseño de tarjeta redondeada para lenguajes
-          plugin_languages_indepth: yes
+          # PANEL 2: Activity Stats (Equivalente al panel izquierdo)
+          plugin_followup: yes
+          plugin_followup_sections: repositories
