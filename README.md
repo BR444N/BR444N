@@ -124,7 +124,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="[URL_REPOSITORIO_6](https://brandon-martinez-dev.vercel.app/)">
+        <a href="https://brandon-martinez-dev.vercel.app/">
           <img src="https://github.com/user-attachments/assets/44c6b837-7993-4f5b-b79b-4de5cf43c233" width="390" alt="Proyecto 6 Card" />
         </a>
       </td>
