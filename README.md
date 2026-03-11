@@ -166,5 +166,8 @@
   
   <br/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BR444N&theme=dark&fire=FFE953&ring=FFE953&sideNums=FFE953&currStreakLabel=FFE953&stroke=FFE953&currStreakNum=FFE953&sideLabels=FFE953&dates=FFE953" alt="GitHub Streak Stats" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=BR444N&theme=dark&fire=FFE953&ring=FFE953&sideNums=FFE953&currStreakLabel=FFE953&stroke=FFE953&currStreakNum=FFE953&sideLabels=FFE953&dates=FFE953&area=true&timezone=America/Mexico_City" 
+    alt="GitHub Streak Stats" 
+  />
 </div>
