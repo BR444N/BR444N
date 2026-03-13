@@ -120,12 +120,12 @@
     <tr>
       <td align="center">
         <a href="https://progress-project-six.vercel.app/">
-          <img src="https://github.com/user-attachments/assets/3a88e0ee-3add-4904-961d-1256b9e1d61a" width="390" alt="Proyecto 5 Card" />
+          <img src="https://github.com/user-attachments/assets/daf85488-3952-40e5-8840-1f4ffc683512" width="390" alt="Splitly Card" />
         </a>
       </td>
       <td align="center">
         <a href="https://brandon-martinez-dev.vercel.app/">
-          <img src="https://github.com/user-attachments/assets/44c6b837-7993-4f5b-b79b-4de5cf43c233" width="390" alt="Proyecto 6 Card" />
+          <img src="https://github.com/user-attachments/assets/44c6b837-7993-4f5b-b79b-4de5cf43c233" width="390" alt="BR444N Card" />
         </a>
       </td>
     </tr>
