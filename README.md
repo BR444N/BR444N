@@ -125,7 +125,7 @@
       </td>
       <td align="center">
         <a href="https://brandon-martinez-dev.vercel.app/">
-          <img src="https://github.com/user-attachments/assets/44c6b837-7993-4f5b-b79b-4de5cf43c233" width="390" alt="BR444N Card" />
+          <img src="https://github.com/user-attachments/assets/3eb6a283-7b96-44b1-9e18-03e11299aa87" width="390" alt="BR444N Card" />
         </a>
       </td>
     </tr>
