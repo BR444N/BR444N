@@ -96,7 +96,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/BR444N/dragonball-api-mobile-app">
-          <img src="https://github.com/user-attachments/assets/c8e7832d-1e49-4967-afa4-5f621c07ebb1" width="390" alt="Dragon Ball App Card" />
+          <img src="https://github.com/user-attachments/assets/88efbc0c-0b59-4b66-a191-363090131834" width="390" alt="Dragon Ball App Card" />
         </a>
       </td>
       <td align="center">
