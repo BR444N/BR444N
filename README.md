@@ -108,7 +108,7 @@
     <tr>
       <td align="center">
         <a href="https://github.com/BR444N/TrainLoop">
-          <img src="https://github.com/user-attachments/assets/7b5d2cba-a205-481a-baaa-8df48ce927c5" width="390" alt="TrainLoop Card" />
+          <img src="https://github.com/user-attachments/assets/7dbff7a5-2706-4902-ae11-c2c7d4e10e23" width="390" alt="TrainLoop Card" />
         </a>
       </td>
       <td align="center">
