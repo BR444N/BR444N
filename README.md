@@ -112,8 +112,8 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/BR444N/TrainLoop-WearOS">
-          <img src="https://github.com/user-attachments/assets/205a3d13-ee58-4f1b-b515-f75ea694a898" width="390" alt="TrainLoop WearOS Card" />
+        <a href="https://progress-project-six.vercel.app/">
+          <img src="https://github.com/user-attachments/assets/3963cd54-ad75-4ff4-b880-0dbc34dfc7d1" width="390" alt="UnitWise Card" />
         </a>
       </td>
     </tr>
