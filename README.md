@@ -112,7 +112,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://progress-project-six.vercel.app/">
+        <a href="https://github.com/BR444N/UnitWise">
           <img src="https://github.com/user-attachments/assets/3963cd54-ad75-4ff4-b880-0dbc34dfc7d1" width="390" alt="UnitWise Card" />
         </a>
       </td>
