@@ -72,6 +72,7 @@
     <img src="https://img.shields.io/badge/Room-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
     <img src="https://img.shields.io/badge/Retrofit-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
     <img src="https://img.shields.io/badge/Coroutines-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HILT-%23FFE953.svg?style=for-the-badge&logo=android&logoColor=black"/>
   </p>
 
   <h4>💻 Tools & OS</h4>
