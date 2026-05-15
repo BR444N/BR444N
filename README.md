@@ -39,7 +39,7 @@
   <h3>👨‍💻 ABOUT ME</h3>
 </div>
 
-- 👨‍🎓 **Information and Communication Technologies Engineering** Student at **Technological Institute of Puebla**
+- 👨‍🎓 **Final-year Information and Communication Technologies Engineering Student** | **Software Engineering Intern**
 - 📱 **Android Developer** specializing in **Kotlin** & **Jetpack Compose**
 - 🟡 Implementing **Android Shortcuts** and **Widgets** in Compose apps
 - 🏗️ Building scalable apps with **Clean Architecture**, **MVVM**, and modern practices
