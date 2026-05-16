@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>I'm an Android Developer focused on building native apps using Kotlin and Jetpack Compose.</strong><br/>
-  I’m passionate about building modern, smooth, and well-designed mobile apps. 📱
+  I focus on building modern mobile apps with smooth performance and good design. 📱
 </p>
 
 <p align="center">
