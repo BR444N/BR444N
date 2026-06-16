@@ -181,8 +181,8 @@
 
 <p align="center">
 <a href="https://github.com/BR444N">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BR444N&show_icons=true&bg_color=000000&title_color=FFE953&text_color=FFFFFF&icon_color=FFE953&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BR444N&show_icons=true&bg_color=000000&title_color=FFE953&text_color=FFFFFF&icon_color=FFE953&hide_border=true&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BR444N&layout=compact&langs_count=8&bg_color=000000&title_color=FFE953&text_color=FFFFFF&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BR444N&layout=compact&langs_count=8&card_width=280&bg_color=000000&title_color=FFE953&text_color=FFFFFF&hide_border=true"/>
 </a>
 </p>
