@@ -177,7 +177,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFE953&height=2&section=footer" width="800" />
 </div>
 
-### ⚙️ &nbsp;GitHub Analytics
+<div align="center">
+  <h3>⚙️ &nbsp;GITHUB ANALYTICS</h3>
+</div>
 
 <p align="center">
 <a href="https://github.com/BR444N">
