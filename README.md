@@ -13,7 +13,7 @@
   <a href="https://brandon-martinez-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-%23FFE953.svg?style=for-the-badge&logo=rocket&logoColor=black" alt="My Portfolio"/>
   </a>
-  <a href="https://play.google.com/store/apps/dev?id=TU_ID_AQUI" target="_blank">
+  <a href="https://play.google.com/store/apps/dev?id=8798475061097617019" target="_blank">
     <img src="https://img.shields.io/badge/Google_Play-%23FFE953.svg?style=for-the-badge&logo=google-play&logoColor=black" alt="Google Play"/>
   </a>
 </p>
