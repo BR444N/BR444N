@@ -40,16 +40,16 @@
 
 <div align="center">
   <h3>👨‍💻 ABOUT ME</h3>
+  
+  <p>👨‍🎓 <strong>Final-year Information and Communication Technologies Engineering Student</strong></p>
+  <p>💼 <strong>Android Development Intern</strong> at Haveltec — building a Wear OS companion app for IoT hardware</p>
+  <p>📱 <strong>Android Developer</strong> specializing in <strong>Kotlin</strong>, <strong>Jetpack Compose</strong> & <strong>Wear OS</strong></p>
+  <p>🏗️ Architecting apps with <strong>Clean Architecture</strong>, <strong>MVVM</strong>, <strong>Hilt</strong>, and <strong>Screaming Architecture</strong></p>
+  <p>🧪 Writing <strong>unit tests</strong> with JUnit & Mockito, and <strong>UI tests</strong> with Compose Testing</p>
+  <p>⚡ Automating quality with <strong>CI/CD</strong> (GitHub Actions), pre-commit hooks, and static analysis</p>
+  <p>🟡 Implementing <strong>Android Shortcuts</strong>, <strong>Widgets</strong>, and <strong>ML Kit</strong> features in production apps</p>
+  <p>💬 Ask me about <strong>Android development</strong>, <strong>Wear OS Data Layer</strong>, or <strong>app architecture</strong>!</p>
 </div>
-
-- 👨‍🎓 **Final-year Information and Communication Technologies Engineering Student**
-- 💼 **Android Development Intern** at Haveltec — building a Wear OS companion app for IoT hardware
-- 📱 **Android Developer** specializing in **Kotlin**, **Jetpack Compose** & **Wear OS**
-- 🏗️ Architecting apps with **Clean Architecture**, **MVVM**, **Hilt**, and **Screaming Architecture**
-- 🧪 Writing **unit tests** with JUnit & Mockito, and **UI tests** with Compose Testing
-- ⚡ Automating quality with **CI/CD** (GitHub Actions), pre-commit hooks, and static analysis
-- 🟡 Implementing **Android Shortcuts**, **Widgets**, and **ML Kit** features in production apps
-- 💬 Ask me about **Android development**, **Wear OS Data Layer**, or **app architecture**!
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFE953&height=2&section=footer" width="800" />
