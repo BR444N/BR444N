@@ -191,13 +191,13 @@
 
 <div align="center">
   <h3>⭐ CURRENT FOCUS</h3>
-</div>
 
-- 🧪 **Testing:** Expanding unit test coverage and integrating Turbine for Flow testing
-- ⚡ **Performance:** Baseline Profiles and Macrobenchmark for startup optimization
-- ⌚ **Wear OS:** Deepening expertise in Watch Face Format and Data Layer APIs
-- 🏗️ **Architecture:** Exploring modularization by feature and convention plugins
-- 📱 **KMP:** Evaluating Kotlin Multiplatform for future cross-platform projects
+  <p>🧪 <strong>Testing:</strong> Expanding unit test coverage and integrating Turbine for Flow testing</p>
+  <p>⚡ <strong>Performance:</strong> Baseline Profiles and Macrobenchmark for startup optimization</p>
+  <p>⌚ <strong>Wear OS:</strong> Deepening expertise in Watch Face Format and Data Layer APIs</p>
+  <p>🏗️ <strong>Architecture:</strong> Exploring modularization by feature and convention plugins</p>
+  <p>📱 <strong>KMP:</strong> Evaluating Kotlin Multiplatform for future cross-platform projects</p>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFE953&height=2&section=footer" width="800" />
