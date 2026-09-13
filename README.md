@@ -221,4 +221,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFE953&height=2&section=footer" width="800" />
 </div>
-
