@@ -68,7 +68,7 @@
         </a>
         <br/><br/>
         <b>Android Development Intern @ Haveltec</b><br/>
-        <sub>2026 — Present | Puebla, México</sub><br/><br/>
+        <sub>2026 — Present | Brandembug, Germany</sub><br/><br/>
         Developing a native <b>Wear OS</b> companion app for the IlockIt smart lock ecosystem. Implemented BLE-aware architecture, Wear OS Data Layer communication, and contextual onboarding flows.
       </td>
     </tr>
